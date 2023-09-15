@@ -1,0 +1,50 @@
+.fonttopfoot{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:black!important;
+    font-size: 0.8rem;
+}
+
+.fontmenu{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:darkblue;
+}
+
+hr{
+    color:rgb(119, 206, 233);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:0px;
+    margin-bottom: 0px;;
+    width:100%;
+    
+}
+
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:darkblue;
+}
+
+h4{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bolder;
+    color:darkblue;
+}
+
+.bloccompetence{
+    background-color:rgb(208, 234, 243);
+}
+
+.textelong{
+    font-family: 'Raleway', sans-serif;
+    font-size:90%;
+    color:rgb(58, 78, 97)!important;
+}
+
+.savoirplus{
+    font-family: 'Raleway', sans-serif;
+    font-size:90%;
+    font-style: italic;
+    text-decoration: none;
+    color:darkblue!important;
+}
+
